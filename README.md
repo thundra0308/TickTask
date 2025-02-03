@@ -6,3 +6,24 @@
 <img src="https://github.com/user-attachments/assets/fd6c59a6-a3ea-4772-aaab-4717e55ef6f5" style="width: 31%;margin:16px;" />
 <img src="https://github.com/user-attachments/assets/46f2d40b-634c-4d5c-9725-e3023113d7e5" style="width: 31%;margin:16px;" />
 <img src="https://github.com/user-attachments/assets/a88f4753-fd79-4f9c-993f-4b824860ff6f" style="width: 31%;margin:16px;" />
+
+# Special Features:
+🗓️ ALL-IN-ONE PLANNER FOR GETTING THINGS DONE
+
+🌈📂 Categories by Colors
+
+🔗🌐📞Link to Open URL and Call
+
+📈 Progress View
+
+🌐 Multi-Language supports
+
+🔄🔁 Backup & Restore
+
+🔒 App lock
+
+📊 Task Overview: 
+
+⏰🔔 Reminders & Notifications:
+
+🅰 Custom Font Size:
