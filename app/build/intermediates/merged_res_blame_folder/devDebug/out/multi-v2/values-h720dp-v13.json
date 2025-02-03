@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mrvoid.apps.tasks.app-mergeDevDebugResources-84:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\.gradle\\caches\\transforms-3\\dcb20e2dddee7b19f91676e2748501d0\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

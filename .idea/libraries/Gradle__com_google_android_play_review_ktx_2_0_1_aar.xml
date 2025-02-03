@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:review-ktx:2.0.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/d9f756937aa113d6e25c63221425e9da/transformed/jetified-review-ktx-2.0.1/AndroidManifest.xml" />
+      <root url="jar://D:/.gradle/caches/transforms-3/d9f756937aa113d6e25c63221425e9da/transformed/jetified-review-ktx-2.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:review:2.0.1@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://D:/.gradle/caches/transforms-3/f899bc73f8618c7d59669e96d0f8eeea/transformed/jetified-review-2.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/f899bc73f8618c7d59669e96d0f8eeea/transformed/jetified-review-2.0.1/AndroidManifest.xml" />
+      <root url="jar://D:/.gradle/caches/transforms-3/f899bc73f8618c7d59669e96d0f8eeea/transformed/jetified-review-2.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

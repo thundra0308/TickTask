@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 件の新しい通知</item>
+    <item quantity="other">%d 件の新しい通知</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完了"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"検索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about">概要</string>
+    <string name="active">アクティブ</string>
+    <string name="add_date_time">日付/時刻を追加</string>
+    <string name="add_task">タスクを追加</string>
+    <string name="add_task_by_speak">話すことでタスクを追加する</string>
+    <string name="add_task_or_subtask">新しいタスクまたはサブタスクを追加します</string>
+    <string name="app_lock">アプリのロック</string>
+    <string name="app_name">タスク</string>
+    <string name="attachment_summary_off">手動でリクエストされた場合にのみ添付ファイルをダウンロードする</string>
+    <string name="attachment_summary_on">受信メールの添付ファイルを自動的にダウンロードします
+    </string>
+    <string name="attachment_title">受信添付ファイルをダウンロード</string>
+    <string name="back">戻る</string>
+    <string name="backup_data">バックアップデータ</string>
+    <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
+    <string name="bottomsheet_action_expand">ボトムシートを開く</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="bottomsheet_drag_handle_clicked">ドラッグ ハンドルをダブルタップしました</string>
+    <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"応答"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ビデオ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"拒否"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"通話終了"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"着信"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"通話中"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"着信をスクリーニング中"</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cancel_reminder">リマインダーがキャンセルされました！</string>
+    <string name="category">カテゴリ ⬇</string>
+    <string name="category_desc">カテゴリ ⬆</string>
+    <string name="category_txt">カテゴリ</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string msgid="406453423630273620" name="close_drawer">"ナビゲーションメニューを閉じる"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"シートを閉じる"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"有効にする"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"インストール"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 開発者サービスの利用"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string name="completed">完了したタスク <b>%d</b></string>
+    <string name="confirm_deletion">削除の確認</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"パスワードを使用"</string>
+    <string name="confirm_notification_msg">すべての通知を削除しますか?</string>
+    <string name="contact_support">サポートに連絡する</string>
+    <string name="copy_text">コピー</string>
+    <string name="create_new_sub_task">新しいサブタスクを追加するにはここをクリック</string>
+    <string name="create_new_task">新しいタスクを追加するにはここをクリック</string>
+    <string name="create_task">タスクの作成</string>
+    <string name="current_version">現在のバージョン</string>
+    <string name="dark">ダーク</string>
+    <string name="date">日付 ⬇</string>
+    <string name="date_desc">日付 ⬆</string>
+    <string msgid="8038256446254964252" name="default_error_message">"入力値が無効です"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"不明なエラーです"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"ポップアップウィンドウ"</string>
+    <string name="delete">削除</string>
+    <string name="delete_all_notifications">すべての通知を削除</string>
+    <string name="delete_all_task">すべてのタスクを削除しますか？</string>
+    <string name="delete_completed_task">完了したすべてのタスクを削除する</string>
+    <string name="delete_task">削除しますか？</string>
+    <string name="developer">開発者</string>
+    <string name="developer_name"> Kaushal Vasava </string>
+    <string name="disable">無効にする</string>
+    <string name="donate">サポートしてください</string>
+    <string name="donate_me_desc">私のアプリが気に入って、このアプリの改善をサポートしたい場合は、お金を寄付してください</string>
+    <string name="done">完了</string>
+    <string name="downloading_start">ダウンロード開始</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"プルダウン メニュー"</string>
+    <string name="edit_delete_task">タスクの編集/削除</string>
+    <string name="empty_task">タスクが空です</string>
+    <string name="enable">有効にする</string>
+    <string name="end_date">終了日</string>
+    <string name="enter_title">タイトルを入力</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="feedback_from_app">%s、%s からのフィードバック</string>
+    <string name="feedback_text">アプリがクラッシュし続ける場合は、フィードバックを送信する \'アプ リデータを消去する\'またはメールを送信する</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"指紋認証センサーをタップ"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"指紋認証ハードウェアは使用できません。"</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"このデバイスには指紋認証センサーがありません"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"入力回数が上限を超えました。しばらくしてからもう一度お試しください。"</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"指紋が登録されていません。"</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"指紋認証操作がユーザーによりキャンセルされました。"</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"認識されませんでした"</string>
+    <string name="follow_instagram">インスタグラムでフォローしてください</string>
+    <string name="follow_system">フォローシステム</string>
+    <string name="font_size">フォントサイズ</string>
+    <string name="general">全般</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"PIN、パターン、パスワードが設定されていません。"</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"このデバイスは PIN、パターン、パスワードをサポートしていません。"</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"認証はユーザーによりキャンセルされました。"</string>
+    <string msgid="2863935784364843033" name="glance_error_layout_text"><b><tt>"adb logcat"</tt></b>" を使用して "<b><tt>"GlanceAppWidget"</tt></b>" を検索し、エラーを詳しくご確認ください"</string>
+    <string msgid="3631961919234443531" name="glance_error_layout_title"><b>"Google Pixel のスナップショット アプリ ウィジェット エラー"</b></string>
+    <string name="good_morning">こんにちは</string>
+    <string name="grid_view">グリッドビュー</string>
+    <string name="hide_completed_task">完了したタスクを非表示にする</string>
+    <string name="home">ホーム</string>
+    <string name="huge">巨大</string>
+    <string name="icon_content_description">ダイアログ アイコン</string>
+    <string name="important_task">重要なタスク</string>
+    <string msgid="6827826412747255547" name="in_progress">"処理しています"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"一部 ON"</string>
+    <string name="item_view_role_description">タブ</string>
+    <string name="language">言語</string>
+    <string name="large">大</string>
+    <string name="layout_view_change_button">レイアウトビュー変更ボタン</string>
+    <string name="light">ライト</string>
+    <string name="list_view">リストビュー</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"ボトムシートを折りたたみます"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"ボトムシートを閉じます"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"ドラッグ ハンドル"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ボトムシートを開きます"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"ボトムシート"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"入力された日付"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"入力された日付: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"想定パターンと一致しない日付: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"許可されない日付: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"想定される年の範囲（%1$s～%2$s）から日付が外れています"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"日付"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"なし"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"日付の選択"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"選択した日付"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"現在の選択: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"年に移動 %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"なし"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"これより前の年を表示するにはスクロールしてください"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"これより後の年を表示するにはスクロールしてください"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"カレンダー入力モードに切り替え"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"スワイプして年を選択するか、タップして日付の選択に戻ります"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"テキスト入力モードに切り替え"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"翌月に変更"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"前月に変更"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"年の選択に切り替え"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"日付の選択"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"今日"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"年の選択ツールの表示"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"入力された期間は無効です"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"日付の入力"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"範囲内"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"終了日"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"翌月を表示するにはスクロールしてください"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"前月を表示するにはスクロールしてください"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"開始日"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"日付の選択"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"ダイアログ"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"閉じています"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"開いています"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"検索"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"閉じる"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"検索候補は次のとおりです"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"時間"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d 時間"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"時刻を選択"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d 時"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"（時間単位）"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"分"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"分を選択"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d 分"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"（分単位）"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"午前または午後を選択"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"ツールチップを表示"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"ツールチップ"</string>
+    <string name="mark_as_completed">完了としてマーク</string>
+    <string name="material_clock_toggle_content_description">午前または午後を選択</string>
+    <string name="material_hour_24h_suffix">%1$s 時間</string>
+    <string name="material_hour_selection">時刻を選択してください</string>
+    <string name="material_hour_suffix">%1$s時</string>
+    <string name="material_minute_selection">分を選択</string>
+    <string name="material_minute_suffix">%1$s分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
+    <string name="material_timepicker_hour">時間</string>
+    <string name="material_timepicker_minute">分</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">時間を選択</string>
+    <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string name="medium">ミディアム</string>
+    <string name="medium_small">ミディアム スモール</string>
+    <string name="messages_header">メッセージ</string>
+    <string name="more">その他</string>
+    <string name="more_app_text">他のアプリをチェックする</string>
+    <string name="more_apps">その他のアプリ</string>
+    <string name="mtrl_badge_numberless_content_description">新しい通知</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d 件以上の新しい通知</string>
+    <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
+    <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
+    <string name="mtrl_picker_announce_current_range_selection">開始日の選択: %1$s – 終了日の選択: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">なし</string>
+    <string name="mtrl_picker_cancel">キャンセル</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">日付を選択してください</string>
+    <string name="mtrl_picker_date_header_unselected">選択した日付</string>
+    <string name="mtrl_picker_day_of_week_column_header">曜日の列: %1$s</string>
+    <string name="mtrl_picker_end_date_description">終了日 %1$s</string>
+    <string name="mtrl_picker_invalid_format">形式が無効です。</string>
+    <string name="mtrl_picker_invalid_format_example">例: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用: %1$s</string>
+    <string name="mtrl_picker_invalid_range">範囲が無効です。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">現在の年（%1$d）に移動</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d 年に移動</string>
+    <string name="mtrl_picker_out_of_range">範囲外: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日～%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s～終了日</string>
+    <string name="mtrl_picker_range_header_selected">%1$s～%2$s</string>
+    <string name="mtrl_picker_range_header_title">期間を選択してください</string>
+    <string name="mtrl_picker_range_header_unselected">開始日～終了日</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_start_date_description">開始日 %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日付</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">今日（%1$s）</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_day_selection">タップするとカレンダー表示に切り替わります</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_year_selection">タップすると年表示に切り替わります</string>
+    <string name="mtrl_timepicker_cancel">キャンセル</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="name">名前 ⬇</string>
+    <string name="name_desc">名前 ⬆</string>
+    <string msgid="542007171693138492" name="navigation_menu">"ナビゲーションメニュー"</string>
+    <string name="new_app_ready">新しいアプリの準備ができました</string>
+    <string name="new_task">新しいタスク</string>
+    <string name="no_application_found">アプリケーションが見つかりません</string>
+    <string name="no_notification">通知はまだありません</string>
+    <string msgid="6610465462668679431" name="not_selected">"未選択"</string>
+    <string name="notification_daily_desc">タスクは保留中です。すぐに完了する必要があります</string>
+    <string name="notifications">通知</string>
+    <string name="notify_delete">タスクは正常に削除されました</string>
+    <string msgid="875452955155264703" name="off">"オフ"</string>
+    <string msgid="8655164131929253426" name="on">"オン"</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="or">OR</string>
+    <string name="other">その他</string>
+    <string name="overdue">期限切れ</string>
+    <string name="overview">概要</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string name="paste">貼り付け</string>
+    <string name="pending">保留中のタスク <b>%d</b></string>
+    <string name="permission_denied">許可が拒否されました</string>
+    <string name="personal">個人</string>
+    <string name="please_select_task">タスクを選択してください</string>
+    <string name="pm_format">午後</string>
+    <string name="privacy_policy">プライバシー ポリシー</string>
+    <string name="progress_setting">個々のタスクのタスクの進行状況を表示する</string>
+    <string name="prompt_info_subtitle">指紋認証でログイン</string>
+    <string name="prompt_info_title">タスクアプリ認証</string>
+    <string msgid="5941395253238309765" name="range_end">"範囲の末尾"</string>
+    <string msgid="7097486360902471446" name="range_start">"範囲の先頭"</string>
+    <string name="rating">アプリを評価する</string>
+    <string name="rating_text">このアプリが好きですか？ GooglePlayストアでさらに改善する方法を教えてください</string>
+    <string name="reminder">リマインダー</string>
+    <string name="reminder_setting">個々のタスクのリマインダーを表示する</string>
+    <string name="reply_title">デフォルトの返信アクション</string>
+    <string name="restart">再起動</string>
+    <string name="restore_data">データの復元</string>
+    <string name="save">保存</string>
+    <string name="school">学校</string>
+    <string name="search">検索</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"検索"</string>
+    <string name="search_subtask">サブタスクの検索</string>
+    <string name="search_task">検索タスク</string>
+    <string name="security_and_data">セキュリティとデータ</string>
+    <string name="select_all">すべて選択</string>
+    <string name="select_project_end_date">プロジェクトの終了日を選択してください</string>
+    <string name="select_project_start_date">プロジェクトの開始日を選択してください</string>
+    <string name="select_task">タスクを選択</string>
+    <string msgid="6043586758067023" name="selected">"選択済み"</string>
+    <string name="set_time">設定時間</string>
+    <string name="settings">設定</string>
+    <string name="share">共有</string>
+    <string name="share_app">共有アプリ</string>
+    <string name="share_by">共有する</string>
+    <string name="share_text">アプリを友達や家族と共有する</string>
+    <string name="show_copy">個々のタスクにコピー アイコンを表示する</string>
+    <string name="show_voice_to_add_task_option">タスク オプションを追加するための音声を表示</string>
+    <string name="signature_title">あなたの署名</string>
+    <string name="small">小</string>
+    <string name="something_went_wrong">何か問題が発生しました!</string>
+    <string name="sort_by_creation_date">作成日で並べ替え</string>
+    <string name="sort_by_name">名前で並べ替え</string>
+    <string name="sort_by_old_to_new">古いものから新しいものへ</string>
+    <string name="sort_expand_collapse_button">並べ替えの展開/折りたたみボタン</string>
+    <string name="sorting_option">並べ替えオプション</string>
+    <string name="speech_not_support">お使いのデバイスは音声入力でサポートされていません</string>
+    <string name="start_date">開始日</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="subtask_of_task">個々のタスクのサブタスクを表示する</string>
+    <string name="subtask_progress">%d /%dサブタスクが完了しました</string>
+    <string msgid="2561197295334830845" name="switch_role">"切り替える"</string>
+    <string name="sync_header">同期</string>
+    <string name="sync_title">定期的にメールを同期する</string>
+    <string msgid="1672349317127674378" name="tab">"タブ"</string>
+    <string name="task_completed">タスクが完了しました</string>
+    <string name="task_deleted">タスクが削除されました</string>
+    <string name="task_not_completed_yet">タスクはまだ完了していません</string>
+    <string name="task_progress">%d /%dタスクが完了しました</string>
+    <string formatted="false" name="task_selected">%d/%d 選択済み</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>パーセント。"</string>
+    <string name="text_copied">%s をコピーしました</string>
+    <string name="theme">テーマ</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"ツールチップ"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"ツールチップを表示"</string>
+    <string name="undo">元に戻す</string>
+    <string name="update_failed">更新に失敗しました</string>
+    <string name="user_cancelled_the_operation">ユーザーが操作をキャンセルしました</string>
+    <string name="very_small">非常に小さい</string>
+    <string name="visit_github">GitHub にアクセス</string>
+    <string name="work">仕事</string>
+    <string name="write_suggestions">提案や問題を書いてください</string>
+</resources>

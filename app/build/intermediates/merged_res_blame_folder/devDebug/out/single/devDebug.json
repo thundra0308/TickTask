@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_copy.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_back.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_reminder_small.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_reminder_small.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_delete.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_developer.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_developer.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_splash_screen_background.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/splash_screen_background.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xxxhdpi_ic_instagram.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xxxhdpi/ic_instagram.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_paste.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_paste.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_reviews.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_reviews.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_coffee.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_coffee.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/xml_task_widget.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/xml/task_widget.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/xml_shortcuts.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xhdpi_ic_instagram.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xhdpi/ic_instagram.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_add_widget.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_add_widget.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_sub_tasks.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_sub_tasks.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_language.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_email.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_save.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_restore.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_restore.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_cancel.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_unchecked.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_unchecked.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_add.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_settings.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_background_progress.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/background_progress.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_github.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_github.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-hdpi_ic_grid_view.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-hdpi/ic_grid_view.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-ldpi_ic_grid_view.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-ldpi/ic_grid_view.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xxhdpi_ic_instagram.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xxhdpi/ic_instagram.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_font.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_font.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-mdpi_ic_instagram.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-mdpi/ic_instagram.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_task.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_task.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xxxhdpi_ic_grid_view.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xxxhdpi/ic_grid_view.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_edit.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xxxhdpi_ic_pin.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xxxhdpi/ic_pin.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_note.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_note.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-mdpi_ic_grid_view.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-mdpi/ic_grid_view.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_apps.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_apps.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_mic.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-ldpi_ic_instagram.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-ldpi/ic_instagram.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xxhdpi_ic_pin.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xxhdpi/ic_pin.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-anydpi-v24_ic_instagram.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-anydpi-v24/ic_instagram.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_profile.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_fingerprint.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_fingerprint.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_expand_more.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_expand_more.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-mdpi_ic_pin.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-mdpi/ic_pin.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xhdpi_ic_grid_view.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xhdpi/ic_grid_view.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_swipe.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_swipe.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_apps.webp.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/apps.webp"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_policy.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_policy.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-hdpi_ic_pin.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-hdpi/ic_pin.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_search.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_progress.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_progress.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-ldpi_ic_pin.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-ldpi/ic_pin.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_add_task.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_add_task.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xxhdpi_ic_grid_view.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xxhdpi/ic_grid_view.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/layout_example_widget.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/layout/example_widget.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-xhdpi_ic_pin.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-xhdpi/ic_pin.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_reminder.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_reminder.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-anydpi-v24_ic_grid_view.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-anydpi-v24/ic_grid_view.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_theme.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_theme.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_add_task2.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_add_task2.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_checked.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_checked.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_create.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_create.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_calendar_small.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_calendar_small.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_filter.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_backup.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_backup.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_splash_screen.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/xml_locales_config.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-anydpi-v24_ic_pin.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-anydpi-v24/ic_pin.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_select_all.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_select_all.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_done.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_share.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/xml-v25_shortcuts.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/xml-v25/shortcuts.xml"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable-hdpi_ic_instagram.png.flat",
+        "source": "com.mrvoid.apps.tasks.app-dev-82:/drawable-hdpi/ic_instagram.png"
+    },
+    {
+        "merged": "com.mrvoid.apps.tasks.app-merged_res-86:/drawable_ic_list_view.xml.flat",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/drawable/ic_list_view.xml"
+    }
+]

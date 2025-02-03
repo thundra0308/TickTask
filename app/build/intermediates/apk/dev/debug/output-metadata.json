@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mrvoid.apps.tasks.dev",
+  "variantName": "devDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 27,
+      "versionName": "1.0.5-dev",
+      "outputFile": "app-dev-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

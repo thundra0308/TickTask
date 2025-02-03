@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nieuwe melding</item>
+    <item quantity="other">%d nieuwe meldingen</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klaar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alles tonen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"UIT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AAN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="about">Over</string>
+    <string name="active">Actief</string>
+    <string name="add_date_time">Datum/tijd toevoegen</string>
+    <string name="add_task">Taak toevoegen</string>
+    <string name="add_task_by_speak">Taak toevoegen door te spreken</string>
+    <string name="add_task_or_subtask">Nieuwe taak of subtaak toevoegen</string>
+    <string name="app_lock">App-vergrendeling</string>
+    <string name="app_name">Taken</string>
+    <string name="attachment_summary_off">Alleen bijlagen downloaden wanneer handmatig gevraagd</string>
+    <string name="attachment_summary_on">Automatisch bijlagen downloaden voor inkomende e-mails
+    </string>
+    <string name="attachment_title">Inkomende bijlagen downloaden</string>
+    <string name="back">Terug</string>
+    <string name="backup_data">Back-upgegevens</string>
+    <string name="bottomsheet_action_collapse">Het blad onderaan samenvouwen</string>
+    <string name="bottomsheet_action_expand">Het blad onderaan uitvouwen</string>
+    <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
+    <string name="bottomsheet_drag_handle_clicked">Dubbelgetikt op handgreep voor slepen</string>
+    <string name="bottomsheet_drag_handle_content_description">Handgreep voor slepen</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Beantwoorden"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Weigeren"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Ophangen"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Inkomend gesprek"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Actief gesprek"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Een inkomend gesprek screenen"</string>
+    <string name="cancel">Annuleren</string>
+    <string name="cancel_reminder">Herinnering geannuleerd!</string>
+    <string name="category">Categorie ⬇</string>
+    <string name="category_desc">Categorie ⬆</string>
+    <string name="category_txt">Categorie</string>
+    <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
+    <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
+    <string name="clear_text_end_icon_content_description">Tekst wissen</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigatiemenu sluiten"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Blad sluiten"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Inschakelen"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installeren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Beschikbaarheid van Google Play-services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="completed">Voltooide taken <b>%d</b></string>
+    <string name="confirm_deletion">Verwijdering bevestigen</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Wachtwoord gebruiken"</string>
+    <string name="confirm_notification_msg">Wil je alle meldingen verwijderen?</string>
+    <string name="contact_support">Contact opnemen met ondersteuning</string>
+    <string name="copy_text">kopiëren</string>
+    <string name="create_new_sub_task">Klik hier om een ​​nieuwe subtaak toe te voegen</string>
+    <string name="create_new_task">Klik hier om een ​​nieuwe taak toe te voegen</string>
+    <string name="create_task">Taak maken</string>
+    <string name="current_version">Huidige versie</string>
+    <string name="dark">Donker</string>
+    <string name="date">Datum ⬇</string>
+    <string name="date_desc">Datum ⬆</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ongeldige invoer"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Onbekende fout"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-upvenster"</string>
+    <string name="delete">Verwijderen</string>
+    <string name="delete_all_notifications">Verwijder alle meldingen</string>
+    <string name="delete_all_task">Wilt u alle taken verwijderen?</string>
+    <string name="delete_completed_task">Verwijder alle voltooide taken</string>
+    <string name="delete_task">Wilt u verwijderen?</string>
+    <string name="developer">Ontwikkelaar</string>
+    <string name="developer_name">Kaushal Vasava</string>
+    <string name="disable">Uitschakelen</string>
+    <string name="donate">Steun mij</string>
+    <string name="donate_me_desc">Als je mijn app leuk vindt en me wilt steunen bij het verbeteren van deze app, doneer dan alsjeblieft wat geld</string>
+    <string name="done">Klaar</string>
+    <string name="downloading_start">Downloaden start</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Dropdownmenu"</string>
+    <string name="edit_delete_task">Taak bewerken/verwijderen</string>
+    <string name="empty_task">Taak is leeg</string>
+    <string name="enable">Inschakelen</string>
+    <string name="end_date">Einddatum</string>
+    <string name="enter_title">Voer titel in</string>
+    <string name="error_icon_content_description">Fout</string>
+    <string name="exposed_dropdown_menu_content_description">Dropdownmenu tonen</string>
+    <string name="feedback_from_app">Feedback van %s, %s</string>
+    <string name="feedback_text">Feedback sturen, Als de app blijft crashen \'Clear app data\' of stuur hem een ​​e-mail</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Raak de vingerafdruksensor aan"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardware voor vingerafdruk niet beschikbaar."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Dit apparaat heeft geen vingerafdruksensor"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Te veel pogingen. Probeer het later opnieuw."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Geen vingerafdrukken geregistreerd."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Vingerafdrukverificatie geannuleerd door gebruiker."</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Niet herkend"</string>
+    <string name="follow_instagram">Volg mij op Instagram</string>
+    <string name="follow_system">Systeem volgen</string>
+    <string name="font_size">Lettergrootte</string>
+    <string name="general">Algemeen</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Geen pincode, patroon of wachtwoord ingesteld."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Dit apparaat ondersteunt geen pincode, patroon of wachtwoord."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Verificatie geannuleerd door gebruiker."</string>
+    <string msgid="2863935784364843033" name="glance_error_layout_text">"Check de exacte fout via "<b><tt>"adb logcat"</tt></b>" door te zoeken naar "<b><tt>"GlanceAppWidget"</tt></b></string>
+    <string msgid="3631961919234443531" name="glance_error_layout_title"><b>"Fout met Glance-app-widget"</b></string>
+    <string name="good_morning">Hallo schat</string>
+    <string name="grid_view">Rasterweergave</string>
+    <string name="hide_completed_task">Verberg voltooide taken</string>
+    <string name="home">Thuis</string>
+    <string name="huge">Groot</string>
+    <string name="icon_content_description">Icoon voor dialoogvenster</string>
+    <string name="important_task">Belangrijke taak</string>
+    <string msgid="6827826412747255547" name="in_progress">"Bezig"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Gedeeltelijk aangevinkt"</string>
+    <string name="item_view_role_description">Tabblad</string>
+    <string name="language">Taal</string>
+    <string name="large">Groot</string>
+    <string name="layout_view_change_button">Knop voor het wijzigen van de lay-outweergave</string>
+    <string name="light">Licht</string>
+    <string name="list_view">Lijstweergave</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Blad onderaan samenvouwen"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Blad onderaan sluiten"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Handgreep voor slepen"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Blad onderaan uitvouwen"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Blad onderaan"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Ingevulde datum"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Ingevulde datum: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"De datum komt niet overeen met het verwachte patroon: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datum niet toegestaan: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datum buiten het verwachte jaarbereik %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Geen"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Datum selecteren"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Geselecteerde datum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Huidige selectie: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Ga naar jaar %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Geen"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Scroll om eerdere jaren te tonen"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Scroll om latere jaren te tonen"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Overschakelen naar agenda-invoermodus"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Swipe om een jaar te selecteren of tik om terug te gaan en een dag te selecteren"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Overschakelen naar tekstinvoermodus"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Naar volgende maand gaan"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Naar vorige maand gaan"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Schakelaar om een jaar te selecteren"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Datum selecteren"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Vandaag"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Jaarselectie zichtbaar"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Ongeldige invoer voor periode"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Datums opgeven"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Binnen bereik"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Einddatum"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Scroll om de volgende maand te tonen"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Scroll om de vorige maand te tonen"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Startdatum"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Datums selecteren"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialoogvenster"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Samengevouwen"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Uitgevouwen"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Zoeken"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Sluiten"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Suggesties hieronder"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Uur"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d uur"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Uur selecteren"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d uur"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"voor uur"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minuut"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Minuten selecteren"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minuten"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"voor minuten"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM of PM selecteren"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Tooltip tonen"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Tooltip"</string>
+    <string name="mark_as_completed">Markeer als voltooid</string>
+    <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
+    <string name="material_hour_24h_suffix">%1$s uur</string>
+    <string name="material_hour_selection">Selecteer uur</string>
+    <string name="material_hour_suffix">%1$s uur</string>
+    <string name="material_minute_selection">Minuten selecteren</string>
+    <string name="material_minute_suffix">%1$s minuten</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Schakel naar de klokmodus om de tijd in te voeren.</string>
+    <string name="material_timepicker_hour">Uur</string>
+    <string name="material_timepicker_minute">Minuut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Tijd selecteren</string>
+    <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
+    <string name="medium">Gemiddeld</string>
+    <string name="medium_small">Middelgroot</string>
+    <string name="messages_header">Berichten</string>
+    <string name="more">Meer</string>
+    <string name="more_app_text">Bekijk andere apps</string>
+    <string name="more_apps">Meer apps</string>
+    <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s verwijderen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Meer dan %1$d nieuwe meldingen</string>
+    <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
+    <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
+    <string name="mtrl_picker_announce_current_range_selection">Startdatumselectie: %1$s – Einddatumselectie: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">geen</string>
+    <string name="mtrl_picker_cancel">Annuleren</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
+    <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom met dagen: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Einddatum %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ongeldige indeling.</string>
+    <string name="mtrl_picker_invalid_format_example">Voorbeeld: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gebruik: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ongeldig bereik.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Naar het huidige jaar %1$d gaan</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naar jaar %1$d navigeren</string>
+    <string name="mtrl_picker_out_of_range">Valt buiten bereik: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – einddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecteer een periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum - einddatum</string>
+    <string name="mtrl_picker_save">Opslaan</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Einddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">j</string>
+    <string name="mtrl_picker_today_description">Vandaag %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Overschakelen naar agenda-invoermodus</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tik om over te schakelen naar de agendaweergave</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tik om over te schakelen naar de jaarweergave</string>
+    <string name="mtrl_timepicker_cancel">Annuleren</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="name">Naam ⬇</string>
+    <string name="name_desc">Naam ⬆</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigatiemenu"</string>
+    <string name="new_app_ready">Nieuwe app is klaar</string>
+    <string name="new_task">Nieuwe taak</string>
+    <string name="no_application_found">Applicatie niet gevonden</string>
+    <string name="no_notification">Nog geen meldingen</string>
+    <string msgid="6610465462668679431" name="not_selected">"Niet geselecteerd"</string>
+    <string name="notification_daily_desc">Je taken zijn in behandeling, je moet ze snel afmaken</string>
+    <string name="notifications">Meldingen</string>
+    <string name="notify_delete">Taken zijn succesvol verwijderd</string>
+    <string msgid="875452955155264703" name="off">"Uit"</string>
+    <string msgid="8655164131929253426" name="on">"Aan"</string>
+    <string name="open_settings">Instellingen openen</string>
+    <string name="or">OF</string>
+    <string name="other">Andere</string>
+    <string name="overdue">Te laat</string>
+    <string name="overview">Overzicht</string>
+    <string name="password_toggle_content_description">Wachtwoord tonen</string>
+    <string name="paste">Plakken</string>
+    <string name="pending">Taken in behandeling <b>%d</b></string>
+    <string name="permission_denied">Toestemming geweigerd</string>
+    <string name="personal">Persoonlijk</string>
+    <string name="please_select_task">Selecteer een taak</string>
+    <string name="pm_format">p.m.</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="progress_setting">Toon taakvoortgang van individuele taak</string>
+    <string name="prompt_info_subtitle">Log in met vingerafdrukauthenticatie</string>
+    <string name="prompt_info_title">Taak-app-authenticatie</string>
+    <string msgid="5941395253238309765" name="range_end">"Einde bereik"</string>
+    <string msgid="7097486360902471446" name="range_start">"Start bereik"</string>
+    <string name="rating">Beoordeel de app</string>
+    <string name="rating_text">Hou je van deze app? Laat ons in de Google Play Store weten hoe we het nog beter kunnen maken</string>
+    <string name="reminder">Herinnering</string>
+    <string name="reminder_setting">Toon herinnering aan individuele taak</string>
+    <string name="reply_title">Standaard antwoordactie</string>
+    <string name="restart">Herstart</string>
+    <string name="restore_data">Gegevens herstellen</string>
+    <string name="save">Opslaan</string>
+    <string name="school">School</string>
+    <string name="search">Zoeken</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Zoeken"</string>
+    <string name="search_subtask">Subtaak zoeken</string>
+    <string name="search_task">Zoektaak</string>
+    <string name="security_and_data">Beveiliging en gegevens</string>
+    <string name="select_all">Alles selecteren</string>
+    <string name="select_project_end_date">Selecteer de einddatum van het project</string>
+    <string name="select_project_start_date">Startdatum project selecteren</string>
+    <string name="select_task">Selecteer taak</string>
+    <string msgid="6043586758067023" name="selected">"Geselecteerd"</string>
+    <string name="set_time">STEL TIJD IN</string>
+    <string name="settings">Instellingen</string>
+    <string name="share">Delen</string>
+    <string name="share_app">App delen</string>
+    <string name="share_by">Delen door</string>
+    <string name="share_text">Deel de app met je vrienden en familie</string>
+    <string name="show_copy">Kopieerpictogram weergeven voor individuele taak</string>
+    <string name="show_voice_to_add_task_option">Toon stem om taakoptie toe te voegen</string>
+    <string name="signature_title">Uw handtekening</string>
+    <string name="small">Klein</string>
+    <string name="something_went_wrong">er ging iets mis!</string>
+    <string name="sort_by_creation_date">Sorteren op aanmaakdatum</string>
+    <string name="sort_by_name">Sorteren op naam</string>
+    <string name="sort_by_old_to_new">Oud naar nieuw</string>
+    <string name="sort_expand_collapse_button">Sorteer knop uitvouwen/samenvouwen</string>
+    <string name="sorting_option">Sorteeroptie</string>
+    <string name="speech_not_support">Uw apparaat wordt niet ondersteund voor spraakinvoer</string>
+    <string name="start_date">Startdatum</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="subtask_of_task">Toon subtaken van individuele taken</string>
+    <string name="subtask_progress">%d/%d subtaken voltooid</string>
+    <string msgid="2561197295334830845" name="switch_role">"Overschakelen"</string>
+    <string name="sync_header">Synchroniseren</string>
+    <string name="sync_title">E-mail periodiek synchroniseren</string>
+    <string msgid="1672349317127674378" name="tab">"Tabblad"</string>
+    <string name="task_completed">Taak voltooid</string>
+    <string name="task_deleted">Taak verwijderd</string>
+    <string name="task_not_completed_yet">De taak is nog niet voltooid</string>
+    <string name="task_progress">%d/%d taken voltooid</string>
+    <string formatted="false" name="task_selected">%d/%d geselecteerd</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string name="text_copied">%s gekopieerd</string>
+    <string name="theme">Thema</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"tooltip"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"tooltip tonen"</string>
+    <string name="undo">UNDOEN</string>
+    <string name="update_failed">Update mislukt</string>
+    <string name="user_cancelled_the_operation">Gebruiker heeft de bewerking geannuleerd</string>
+    <string name="very_small">Heel klein</string>
+    <string name="visit_github">Bezoek GitHub</string>
+    <string name="work">Werk</string>
+    <string name="write_suggestions">Schrijf je suggesties of problemen op</string>
+</resources>

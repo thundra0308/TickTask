@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.mrvoid.apps.tasks.app-mergeDevDebugResources-85:/layout/example_widget.xml",
+        "source": "com.mrvoid.apps.tasks.app-main-90:/layout/example_widget.xml"
+    }
+]

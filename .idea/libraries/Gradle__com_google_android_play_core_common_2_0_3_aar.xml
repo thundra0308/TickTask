@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:core-common:2.0.3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/458cdc60aa44bfc779a6e0e2359f57a4/transformed/jetified-core-common-2.0.3/AndroidManifest.xml" />
+      <root url="jar://D:/.gradle/caches/transforms-3/458cdc60aa44bfc779a6e0e2359f57a4/transformed/jetified-core-common-2.0.3/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/458cdc60aa44bfc779a6e0e2359f57a4/transformed/jetified-core-common-2.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
